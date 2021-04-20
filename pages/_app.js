@@ -34,3 +34,5 @@ export default MyApp;
 // login logo and button created/rendered
 // ggle auth signin popup and alert function
 // loading rendered
+// catch the user with time when logged in
+
