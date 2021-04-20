@@ -50,4 +50,6 @@ const Logo = styled.img`
 `;
 
 // login container head and title with logo
+// login logo and button created/rendered
+
 

@@ -31,3 +31,4 @@ function MyApp({ Component, pageProps }) {
 export default MyApp;
 
 // yarn installed and nextjs app initialzed
+// login logo and button created/rendered
