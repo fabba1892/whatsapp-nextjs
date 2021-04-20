@@ -48,3 +48,6 @@ const Logo = styled.img`
   width: 200px;
   margin-bottom: 50px;
 `;
+
+// login container head and title with logo
+
