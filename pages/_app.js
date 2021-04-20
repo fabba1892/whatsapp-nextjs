@@ -32,3 +32,5 @@ export default MyApp;
 
 // yarn installed and nextjs app initialzed
 // login logo and button created/rendered
+// ggle auth signin popup and alert function
+
