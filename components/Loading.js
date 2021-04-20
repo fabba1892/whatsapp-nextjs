@@ -17,3 +17,5 @@ function Loading() {
 }
 
 export default Loading;
+// cicrle spin and style for loading, spinkit
+
