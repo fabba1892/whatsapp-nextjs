@@ -131,5 +131,7 @@ const IconsContainer = styled.div``;
 
 // signin and sign out is working
 // chat between to mails created
+// validate the email and then chat with other usr
+
 
 
