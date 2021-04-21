@@ -50,3 +50,6 @@ const UserAvatar = styled(Avatar)`
   margin: 5px;
   margin-right: 15px;
 `;
+
+// check user is logged in & validate & render chat
+
