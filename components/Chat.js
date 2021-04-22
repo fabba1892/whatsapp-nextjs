@@ -53,5 +53,7 @@ const UserAvatar = styled(Avatar)`
 
 // check user is logged in & validate & render chat
 // chat avatars and style
+// recipient email no displays in the chat
+
 
 
