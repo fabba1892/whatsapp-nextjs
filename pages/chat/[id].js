@@ -73,3 +73,5 @@ const ChatContainer = styled.div`
   -ms-overflow-style: none;
   scrollbar-width: none;
 `;
+
+// onclick chat then it opens
