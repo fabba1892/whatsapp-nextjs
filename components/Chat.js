@@ -52,4 +52,6 @@ const UserAvatar = styled(Avatar)`
 `;
 
 // check user is logged in & validate & render chat
+// chat avatars and style
+
 
