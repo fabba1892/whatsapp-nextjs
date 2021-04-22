@@ -4,4 +4,6 @@ const getRecipientEmail = (users, userLoggedIn) =>
 export default getRecipientEmail;
 
 // getrecipientEmial function for Chat
+// collect the first letter of recipient
+
 
