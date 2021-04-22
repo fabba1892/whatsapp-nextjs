@@ -135,6 +135,8 @@ const IconsContainer = styled.div``;
 // if chat doesnt already exist and is valid
 // check user is logged in & validate & render chat
 // recipient email no displays in the chat
+// onclick chat then route to that chat
+
 
 
 

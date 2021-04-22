@@ -55,6 +55,8 @@ const UserAvatar = styled(Avatar)`
 // chat avatars and style
 // recipient email no displays in the chat
 // collect the first letter of recipient
+// onclick chat then route to that chat
+
 
 
 
