@@ -78,6 +78,8 @@ const ChatContainer = styled.div`
 // chatscreen display when click on a chat
 // collection chat it alredy avail & prep on server
 // prep the messages and chats on server side
+// now we get the chat and user on top
+
 
 
 
