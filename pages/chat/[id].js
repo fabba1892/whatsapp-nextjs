@@ -79,6 +79,8 @@ const ChatContainer = styled.div`
 // collection chat it alredy avail & prep on server
 // prep the messages and chats on server side
 // now we get the chat and user on top
+// recipient props with chat/messages
+
 
 
 
