@@ -75,3 +75,5 @@ const ChatContainer = styled.div`
 `;
 
 // onclick chat then it opens
+// chatscreen display when click on a chat
+

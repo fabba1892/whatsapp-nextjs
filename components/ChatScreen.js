@@ -162,3 +162,7 @@ const MessageContainer = styled.div`
   background-color: #e5ded8;
   min-height: 90vh;
 `;
+
+// chatscreen display when click on a chat
+
+
