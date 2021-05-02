@@ -166,6 +166,8 @@ const MessageContainer = styled.div`
 // chatscreen display when click on a chat
 // chatscreen with state for user & avatar etc creatd
 // message container and icons attch/more created
+// collect messages with props time key etc from db
+
 
 
 
