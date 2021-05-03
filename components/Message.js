@@ -13,4 +13,6 @@ export default Message;
 const Container = styled.div``;
 
 // messages in container
+// now the messages get duisplayed in the container
+
 
