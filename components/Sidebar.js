@@ -136,6 +136,8 @@ const IconsContainer = styled.div``;
 // check user is logged in & validate & render chat
 // recipient email no displays in the chat
 // onclick chat then route to that chat
+// style the sidebar chats etec
+
 
 
 
