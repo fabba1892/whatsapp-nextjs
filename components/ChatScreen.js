@@ -170,6 +170,8 @@ const MessageContainer = styled.div`
 // render showMessages in messg container
 // message section with icons emoticon r/mic rendered
 // get messages from db & render in message cointainr
+// render recipientEmail
+
 
 
 
