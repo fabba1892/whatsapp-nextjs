@@ -167,7 +167,9 @@ const MessageContainer = styled.div`
 // chatscreen with state for user & avatar etc creatd
 // message container and icons attch/more created
 // collect messages with props time key etc from db
-// remder showMessages in messg container
+// render showMessages in messg container
+// message section with icons emoticon r/mic rendered
+
 
 
 
