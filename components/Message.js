@@ -11,3 +11,6 @@ function Message({ user, message }) {
 export default Message;
 
 const Container = styled.div``;
+
+// messages in container
+
