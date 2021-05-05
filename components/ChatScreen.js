@@ -173,6 +173,8 @@ const MessageContainer = styled.div`
 // render recipientEmail
 // srverside rendering working email on top & messgs
 // no we can see the avatar on top as well
+// yarn timeago and time disply in chat
+
 
 
 
