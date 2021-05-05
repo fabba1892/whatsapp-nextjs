@@ -171,6 +171,10 @@ const MessageContainer = styled.div`
 // message section with icons emoticon r/mic rendered
 // get messages from db & render in message cointainr
 // render recipientEmail
+// srverside rendering working email on top & messgs
+// no we can see the avatar on top as well
+
+
 
 
 
