@@ -169,7 +169,7 @@ const MessageContainer = styled.div`
 // collect messages with props time key etc from db
 // render showMessages in messg container
 // message section with icons emoticon r/mic rendered
-// get messages from db & render in message cointainr
+// get messages from db & render in message container
 // render recipientEmail
 // srverside rendering working email on top & messgs
 // no we can see the avatar on top as well
